@@ -17,7 +17,8 @@ import {
   Calendar, 
   CreditCard,
   PieChart,
-  Unlock
+  Unlock,
+  ExternalLink // <--- Added missing tool here!
 } from 'lucide-react';
 
 // --- MOCK DATA GENERATORS (The "Financial Advisor" Brain) ---
