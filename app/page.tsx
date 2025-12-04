@@ -18,7 +18,8 @@ import {
   CreditCard,
   PieChart,
   Unlock,
-  ExternalLink // <--- Added missing tool here!
+  ExternalLink,
+  Download // <--- Added missing tool here!
 } from 'lucide-react';
 
 // --- MOCK DATA GENERATORS (The "Financial Advisor" Brain) ---
